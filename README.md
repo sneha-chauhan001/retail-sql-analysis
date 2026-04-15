@@ -35,11 +35,7 @@ The dataset was first loaded into an SQLite database, and then SQL queries were 
 
 ### Sales by Category
 
-![Category](images/category_plot.png)
-
 ### Gender-wise Spending
-
-![Gender](images/gender_plot.png)
 
 ---
 
@@ -48,9 +44,7 @@ The dataset was first loaded into an SQLite database, and then SQL queries were 
 This project helped in understanding how SQL can be used to query and analyze data efficiently.
 It also demonstrates how Python can be combined with SQL for practical data analysis workflows.
 
----
 
-## 👩‍💻 Author
 
-Sneha Chauhan
+
 
